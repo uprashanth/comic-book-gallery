@@ -1,4 +1,3 @@
-F:\Visual Studio\comic-book-gallery\src\ComicBookGallery\obj\Debug\ComicBookGallery.csprojResolveAssemblyReference.cache
 F:\Visual Studio\comic-book-gallery\src\ComicBookGallery\bin\roslyn\csc.exe
 F:\Visual Studio\comic-book-gallery\src\ComicBookGallery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 F:\Visual Studio\comic-book-gallery\src\ComicBookGallery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
